@@ -1,0 +1,18 @@
+Pete:42
+Pete:18
+Mikael:8
+Pete:5
+Pelaaja X:2
+Pete:2
+Aivan liian pitkä nimi näytettäväksi parhaiden tulosten listassa:1
+-:0
+-:0
+-:0
+-:0
+-:0
+-:0
+-:0
+-:0
+-:0
+﻿-:0
+JOONAS:50
