@@ -93,7 +93,7 @@ public class Peli extends Timer implements ActionListener {
         this.taustat.put(9, "/graphics/building09.png");
         
         for (int i = 1; i < 16; i++) {
-            this.pisterajat.put(i, 5 * i);
+            this.pisterajat.put(i, 50 * i);
         }
         
         addActionListener(this);
